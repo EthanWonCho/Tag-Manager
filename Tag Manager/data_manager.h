@@ -3,7 +3,6 @@
 //  Tag Manager
 //
 //  Created by Ethan Cho on 8/15/24.
-//  Last edited by Ethan Cho on 8/15/24.
 //
 
 #ifndef data_manager_h
